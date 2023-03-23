@@ -1,0 +1,16 @@
+body{
+    background: rgb(43, 42, 42);
+}
+h1{
+    color: yellow;
+}
+p{
+    color: white;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: 20px;
+    border-color: yellow;
+    border-radius: 5px;
+}
