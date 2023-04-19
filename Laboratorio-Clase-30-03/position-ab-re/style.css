@@ -1,0 +1,25 @@
+.contenedor {
+    position: relative;
+    height: 300px;
+    width: 400px;
+    background-color: lightblue;
+  }
+  
+  .elemento1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+  }
+  
+  .elemento2 {
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+  }
+  

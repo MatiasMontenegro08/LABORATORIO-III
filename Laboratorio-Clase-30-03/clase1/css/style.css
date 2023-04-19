@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:antiquewhite;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 900px;
+    /* border: 10px solid red; */
+}
+
+.logo {
+    display: inline-block;
+
+}
+
+.logo img {
+    height: 150px;
+}
+
+.banner{
+    display: inline-block;
+}
+
+.banner img {
+    height: 150px;
+    width: 720px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.banner2 {
+    background-image: url(../img/banner.jpg);
+
+    height: 150px;
+    
+    width: 90%;
+    background-repeat: no-repeat;
+
+    background-position-x: 50%;
+    background-position-y: 80%;
+}

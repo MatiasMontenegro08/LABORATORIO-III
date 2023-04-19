@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    padding: 10px;
+    margin: 10px;
+}

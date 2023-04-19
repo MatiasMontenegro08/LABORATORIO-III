@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    height: 1200px;
+    width: 100%;
+  }
+  
+  .elemento1 {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+  }
+  
+  .elemento2 {
+    margin-top: 100px;
+    height: 1500px;
+    width: 100%;
+    background-color: green;
+  }
+  
