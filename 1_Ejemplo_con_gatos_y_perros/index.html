@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ejemplo con perros y gatos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Perros y Gatos</h1>
+
+        <fieldset>
+
+            <legend>Filtros</legend>
+
+            <label>
+                <input type="checkbox" name="filtro" value="perro">
+                Perros
+            </label>
+
+            <label>
+                <input type="checkbox" name="filtro" value="gato">
+                Gatos
+            </label>
+
+            <div>
+                <label>
+                    <b>Buscar:</b>
+                    <input id="buscar" type="text" name="buscar">
+                </label>
+            </div>
+
+        </fieldset>
+
+        <div class="contenedor_cards d-flex justify-content-center align-items-center flex-wrap">
+            <div class="card">
+                <img src="./img/perros/perros1.jpg" alt="Perro 1">
+                <p>Max</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato1.jpeg" alt="Gato 1">
+                <p>Oliver</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/perros/perros2.jpg" alt="Perro 2">
+                <p>Charlie</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato2.jpeg" alt="Gato 2">
+                <p>Leo</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/perros/perros3.jpg" alt="Perro 3">
+                <p>Lucy</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato3.jpeg" alt="Gato 3">
+                <p>Bella</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/perros/perros4.jpg" alt="Perro 4">
+                <p>Cooper</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato5.jpeg" alt="Gato 4">
+                <p>Milo</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/perros/perros5.jpg" alt="Perro 5">
+                <p>Jasper</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato2.jpeg" alt="Gato 5">
+                <p>Luna</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/perros/perros6.jpg" alt="Perro 6">
+                <p>Oscar</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+
+            <div class="card">
+                <img src="./img/gatos/gato6.jpeg" alt="Gato 6">
+                <p>Lily</p>
+                <button class="btn btn-danger">Mas info</button>
+            </div>
+        </div>
+
+    </div> <!-- fin container -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
+
+        <script src="./data/data.js"></script>
+        <script src="./script.js"></script>
+</body>
+
+</html>
