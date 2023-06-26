@@ -1,0 +1,55 @@
+Notebook Gamer Asus TUF FX516 15.6" FHD Core I5 11300H 16GB 512GB SSD NVMe RTX 3050 Freedos 144hz
+
+CARACTERISTICAS GENERALES
+Color	Gris Oscuro
+Sistema Operativo	FreeDOS
+Tipo De Cpu	Intel
+Tipo De Gpu	Nvidia GeForce
+Batería Extraible	No
+Modelo Gpu	RTX 3050
+Modelo Cpu	Core i5 11300H
+Tipo	Notebook
+Memoria Gpu	4 gb
+Lector De Huellas	No
+Familia Del Procesador	Intel Core i5
+
+CONECTIVIDAD
+Puertos Hdmi	1
+Puertos Mini Hdmi	0
+Puerto Mini Dp	0
+Puertos Usb 2.0 Tipo A	0
+Puertos Usb 3.0 Tipo A	0
+Puertos Usb 3.2 Tipo A	3
+Puertos Usb 3.2 Tipo C	1
+Bluetooth	Si
+Wifi	Norma AX
+Puertos Ethernet	Si
+
+DIMENSIONES
+Peso	2 kg
+Ancho	36 cm
+Profundidad	25.2 cm
+Alto	1.99 cm
+
+ALMACENAMIENTO
+Slot M2	Si
+Capacidad Hd	0 gb
+Tipo De M.2	NVME
+Capacidad Sólido	512 gb
+Lector De Memorias	No
+
+PANTALLA
+Tamaño De La Pantalla	15.60 pulgadas
+Tipo De Display	IPS
+Resolución	1920x1080
+Touch	No
+Frecuencia De Actualizacion	144 hz
+
+MEMORIA
+Ram Integrada	16 gb
+Slot 1 Ram Disponible	Si
+Slot 2 Ram Disponible	No
+Ram En El Slot 1	0 gb
+Ram En El Slot 2	0 gb
+Generación De Memorias	DDR4
+Formato De Memorias	SODIMM

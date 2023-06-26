@@ -1,0 +1,42 @@
+Auriculares HP HyperX Cloud Black Blue PS4 PS5
+
+CARACTERISTICAS GENERALES
+Audio	7.1
+Colores	Negro,Azul
+Conexión	Cableado
+Con Micrófono	Si
+Tipo De Audio	Virtual
+Tipo	Headset
+
+CONECTIVIDAD
+Usb	No
+Inalámbrico Con Receptor	No
+Inalámbrico Por Bluetooth	No
+Usb De Alimentación	No
+
+DIMENSIONES
+Tamaño De Los Parlantes	53 mm
+
+CABLEADO
+Largo Del Cable	1.3 m
+
+COMPATIBILIDAD
+Dispositivos Compatibles	PS4,PS5
+
+ACCESORIOS
+Docking Incluído	No
+
+SONIDO
+Impedancia	41 Ω
+Respuesta Mínima	15 hz
+Respuesta Máxima	20000 hz
+Sensibilidad	104 db
+Surround	No
+
+MICRÓFONO
+Respuesta Mínima	50 hz
+Respuesta Máxima	18000 hz
+Sensibilidad	39 db (-)
+Tipo De Micrófono	Desmontable
+Cancelación De Ruidos	Si
+Tipo Captación	Unidireccional

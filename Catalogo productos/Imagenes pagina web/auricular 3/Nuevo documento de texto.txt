@@ -1,0 +1,43 @@
+Auriculares Wesdar Gaming GH9 Black
+
+CARACTERISTICAS GENERALES
+Audio	2.0
+Colores	Negro
+Conexión	Cableado
+Con Micrófono	Si
+Tipo De Audio	Real
+Tipo	Headset
+
+CONECTIVIDAD
+Mini Plug Audio	1
+Mini Plug Combinado	1
+Usb	No
+Inalámbrico Con Receptor	No
+Inalámbrico Por Bluetooth	No
+Mini Plug Micrófono	1
+Usb De Alimentación	Si
+
+DIMENSIONES
+Tamaño De Los Parlantes	40 mm
+
+CABLEADO
+Largo Del Cable	1.5 m
+
+COMPATIBILIDAD
+Dispositivos Compatibles	PC
+
+ACCESORIOS
+Docking Incluído	No
+
+SONIDO
+Impedancia	20 Ω
+Respuesta Mínima	20 hz
+Respuesta Máxima	20000 hz
+Sensibilidad	115 db
+Surround	No
+
+MICRÓFONO
+Sensibilidad	38 db (-)
+Tipo De Micrófono	Integrado
+Cancelación De Ruidos	No
+Tipo Captación	No especificado

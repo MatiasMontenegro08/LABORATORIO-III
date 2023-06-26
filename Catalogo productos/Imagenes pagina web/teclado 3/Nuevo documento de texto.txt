@@ -1,0 +1,38 @@
+Teclado Marvo KG880 Retroiluminado Multimedia
+
+CARACTERISTICAS GENERALES
+Tipo De Teclado	Completo
+Color	Negro
+Tipo De Mecanismo	Semi Mecánico
+Material	Plástico
+Touchpad	No
+Pad Numérico	Si
+
+RENDIMIENTO
+Anti Salpicaduras	No
+Cantidad De Teclas En Simultaneo	19 teclas
+Polling Rate	1000 hz
+Tiempo De Respuesta	1 ms
+N-key Rollover	No
+Antighosting	No
+
+CONECTIVIDAD
+Puertos Usb Requeridos	1
+Puertos Ps/2 Requeridos	No
+Conexión Bluetooth	No
+Receptor Bluetooth Incluido	No
+Conexión Wireless Con Receptor	No
+Audio Hub	No
+
+DIMENSIONES
+Ancho	446 mm
+Profundidad	177 mm
+Alto	24 mm
+Peso	0.775 kg
+Reposamuñecas	No
+Reposamuñecas Extraíble	No
+
+CABLEADO
+Tipo Cable	Plástico
+Cable Extraíble	No
+Largo Del Cable	1.5 metros

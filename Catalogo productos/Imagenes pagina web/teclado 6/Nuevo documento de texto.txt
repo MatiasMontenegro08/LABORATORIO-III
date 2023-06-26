@@ -1,0 +1,34 @@
+Teclado Mecanico Marvo Scorpion KG901 Compact Rainbow
+
+CARACTERISTICAS GENERALES
+Tipo De Teclado	Completo
+Color	Negro
+Tipo De Mecanismo	Membrana
+Material	Plástico
+Touchpad	No
+Pad Numérico	Si
+
+RENDIMIENTO
+Anti Salpicaduras	No
+N-key Rollover	No
+Antighosting	No
+
+CONECTIVIDAD
+Puertos Usb Requeridos	1
+Puertos Ps/2 Requeridos	No
+Conexión Bluetooth	No
+Receptor Bluetooth Incluido	No
+Conexión Wireless Con Receptor	No
+Audio Hub	No
+
+DIMENSIONES
+Ancho	460 mm
+Profundidad	175 mm
+Alto	35 mm
+Peso	0.69 kg
+Reposamuñecas	No
+Reposamuñecas Extraíble	No
+
+CABLEADO
+Cable Extraíble No
+Largo Del Cabl 1.8 metros

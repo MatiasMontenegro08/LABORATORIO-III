@@ -1,0 +1,55 @@
+Notebook Gamer Asus ROG Zephyrus G14 QHD 14" Ryzen 7 4800HS 16GB (2x8GB) 512GB SSD NVMe GTX 1650 W10 120Hz 
+
+CARACTERISTICAS GENERALES
+Color	Gris Oscuro
+Sistema Operativo	Windows 10 Home 64bits
+Tipo De Cpu	AMD
+Tipo De Gpu	nVidia GeForce
+Batería Extraible	No
+Modelo Gpu	GTX 1650
+Modelo Cpu	4800HS
+Idioma Sistema Operativo	Español
+Tipo	Notebook
+Memoria Gpu	4 gb
+Lector De Huellas	Si
+Familia Del Procesador	Intel Core i7
+
+CONECTIVIDAD
+Puertos Hdmi	1
+Puertos Mini Hdmi	0
+Puerto Mini Dp	0
+Puertos Usb 2.0 Tipo A	0
+Puertos Usb 3.0 Tipo A	0
+Puertos Usb 3.2 Tipo A	2
+Puertos Usb 3.2 Tipo C	2
+Bluetooth	Si
+Wifi	Norma AX
+Puertos Ethernet	No
+
+DIMENSIONES
+Peso	1.6 kg
+Ancho	32.4 cm
+Profundidad	22.2 cm
+Alto	1.79 cm
+
+ALMACENAMIENTO
+Slot M2	Si
+Capacidad Hd	0 gb
+Tipo De M.2	NVME
+Capacidad Sólido	512 gb
+Lector De Memorias	No
+
+PANTALLA
+Tamaño De La Pantalla	14.00 pulgadas
+Tipo De Display	IPS
+Resolución	2560x1440
+Touch	No
+Frecuencia De Actualizacion	120 hz
+
+MEMORIA
+Ram Integrada	8 gb
+Slot 1 Ram Disponible	Si
+Slot 2 Ram Disponible	No
+Ram En El Slot 1	8 gb
+Generación De Memorias	DDR4
+Formato De Memorias	SODIMM

@@ -1,0 +1,55 @@
+Notebook Lenovo IdeaPad 5 14IIL05 14" FHD Core I7 1065G7 8GB 256GB SSD NVMe W10 Home
+
+CARACTERISTICAS GENERALES
+Color	Gris Oscuro
+Sistema Operativo	Windows 10 Home 64bits
+Tipo De Cpu	Intel
+Tipo De Gpu	Intel Integrated Graphics
+Batería Extraible	No
+Modelo Gpu	Iris Plus Graphics
+Modelo Cpu	Core i7 1065G7
+Idioma Sistema Operativo	Español
+Tipo	Notebook
+Lector De Huellas	No
+Familia Del Procesador	Intel Core i7
+
+CONECTIVIDAD
+Puertos Hdmi	1
+Puertos Mini Hdmi	0
+Puerto Mini Dp	0
+Puertos Usb 2.0 Tipo A	0
+Puertos Usb 3.0 Tipo A	0
+Puertos Usb 3.2 Tipo A	2
+Puertos Usb 3.2 Tipo C	1
+Bluetooth	Si
+Wifi	Norma AC
+Puertos Ethernet	No
+
+DIMENSIONES
+Peso	1.39 kg
+Ancho	32.1 cm
+Profundidad	21.1 cm
+Alto	1.8 cm
+
+ALMACENAMIENTO
+Slot M2	Si
+Capacidad Hd	0 gb
+Tipo De M.2	NVME
+Capacidad Sólido	256 gb
+Lector De Memorias	Si
+
+PANTALLA
+Tamaño De La Pantalla	14.00 pulgadas
+Tipo De Display	IPS
+Resolución	1920x1080
+Touch	No
+Frecuencia De Actualizacion	60 hz
+
+MEMORIA
+Ram Integrada	8 gb
+Slot 1 Ram Disponible	No
+Slot 2 Ram Disponible	No
+Ram En El Slot 1	0 gb
+Ram En El Slot 2	0 gb
+Generación De Memorias	DDR4
+Formato De Memorias	SODIMM

@@ -1,0 +1,34 @@
+Mouse Redragon Mirage M690 2.5GHz Wireless
+
+CARACTERISTICAS GENERALES
+Color	Negro,Rojo
+Cantidad De Botones	8
+Tip De Switch	Omron
+Tipo De Sensor	Óptico
+Sensor	Pixart 3212
+Tipo Inalámbrico	Si
+Orientación	Para diestros
+Agarre Palm Grip	Si
+Agarre Claw Grip	Si
+Agarre Finger Grip	Si
+
+RENDIMIENTO
+Dpi Ajustables	Si
+Dpi Mínimo	800
+Dpi Máximos	4800
+Frecuencia De Respuesta	500 hz
+
+CONECTIVIDAD
+Usb Requeridos	1
+Incluye Receptor	No
+Ps2 Requerido	No
+
+DIMENSIONES
+Peso	72 gr
+Sistema De Pesas	No
+Ancho	71 mm
+Profundidad	125 mm
+Alto	41 mm
+
+CABLEADO
+Cable Desmontable	No

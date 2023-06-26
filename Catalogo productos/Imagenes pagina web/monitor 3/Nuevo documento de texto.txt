@@ -1,0 +1,43 @@
+Monitor Samsung 32" Curvo T550 75Hz
+
+CARACTERISTICAS GENERALES
+Tipo De Iluminación	LED
+Tipo De Panel	VA
+Pantalla Curva	Si
+
+CONECTIVIDAD
+Conexión 3.5 Mm - Entrada	Si
+Conector Auriculares	Si
+Hdmi			1
+Dvi			0
+Vga			1
+Display Port		1
+Puertos Usb 2.0		0
+Puertos Usb 3.0		0
+Puertos Usb 3.1		0
+Mini Display Port	0
+
+DIMENSIONES
+Ancho	708 mm
+Alto	426 mm
+Espesor	133 mm
+Curvatura	1000 r
+
+ENERGIA
+Consumo Máximo	50 w
+Tipo De Fuente	externa
+
+PANTALLA
+Pulgadas	32 ''
+Pulgadas Visibles	31.5 ''
+Resolución Máxima	1920x1080
+Máxima Frecuencia	75 hz
+Radio De Contraste Estático	2500 :1
+Cantidad De Colores	16.7 m
+Tiempo De Respuesta	4 ms
+Angulo De Visión Horizontal	178 º
+Angulo De Visión Vertical	178 º
+Caracteristicas Especiales	0
+Nvidia G-sync	No
+Amd Freesync	Si
+Pantalla Touch	No

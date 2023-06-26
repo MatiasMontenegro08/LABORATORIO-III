@@ -1,0 +1,45 @@
+Monitor Samsung 27" Smart M5 Full HD AirPlay2/Netflix/Youtube/HBO
+
+CARACTERISTICAS GENERALES
+Tipo De Iluminación	LCD
+Tipo De Panel	TN
+Pantalla Curva	No
+
+CONECTIVIDAD
+Conexión 3.5 Mm - Entrada	No
+Conector Auriculares	No
+Hdmi			1
+Dvi			0
+Vga			1
+Display Port		0
+Puertos Usb 2.0		0
+Puertos Usb 3.0		0
+Puertos Usb 3.1		0
+Mini Display Port	0
+
+DIMENSIONES
+Ancho	437 mm
+Alto	273 mm
+Espesor	48 mm
+Curvatura	0 r
+
+ENERGIA
+Consumo Máximo	9 w
+Tipo De Fuente	interna
+
+PANTALLA
+Pulgadas	19 ''
+Pulgadas Visibles	18.5 ''
+Resolución Máxima	1366x768
+Máxima Frecuencia	60 hz
+Radio De Contraste Estático	700 :1
+Radio De Contraste Dinamico	5 m:1
+Cantidad De Colores	16.7 m
+Tiempo De Respuesta	5 ms
+Angulo De Visión Horizontal	90 º
+Angulo De Visión Vertical	65 º
+Hdr	30000
+Caracteristicas Especiales	0
+Nvidia G-sync	No
+Amd Freesync	No
+Pantalla Touch	No

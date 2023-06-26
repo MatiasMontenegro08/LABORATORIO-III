@@ -1,0 +1,44 @@
+Monitor LG 24" 24MK600M IPS Full HD Bordes Ultra Fino
+
+CARACTERISTICAS GENERALES
+Tipo De Iluminación	LED
+Tipo De Panel	IPS
+Pantalla Curva	No
+
+CONECTIVIDAD
+Conexión 3.5 Mm - Entrada	No
+Conector Auriculares	Si
+Hdmi			2
+Dvi			0
+Vga			1
+Display Port		0
+Puertos Usb 2.0		0
+Puertos Usb 3.0		0
+Puertos Usb 3.1		0
+Mini Display Port	0
+
+DIMENSIONES
+Ancho	488 mm
+Alto	293 mm
+Espesor	66 mm
+Curvatura	0 r
+
+ENERGIA
+Consumo Máximo	17 w
+Tipo De Fuente	externa
+
+PANTALLA
+Pulgadas	24 ''
+Pulgadas Visibles	23.8 ''
+Resolución Máxima	1920x1080
+Máxima Frecuencia	75 hz
+Radio De Contraste Estático	1000 :1
+Radio De Contraste Dinamico	5 m:1
+Cantidad De Colores	16.7 m
+Tiempo De Respuesta	5 ms
+Angulo De Visión Horizontal	178 º
+Angulo De Visión Vertical	178 º
+Caracteristicas Especiales	0
+Nvidia G-sync	No
+Amd Freesync	Si
+Pantalla Touch	No

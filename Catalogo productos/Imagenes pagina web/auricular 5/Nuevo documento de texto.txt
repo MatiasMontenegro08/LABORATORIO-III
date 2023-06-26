@@ -1,0 +1,42 @@
+Auriculares Redragon H260 Hylas RGB
+
+CARACTERISTICAS GENERALES
+Audio	2
+Colores	Negro,Rojo
+Conexión	Cableado
+Con Micrófono	Si
+Tipo De Audio	Real
+Tipo	Headset
+
+CONECTIVIDAD
+Mini Plug Audio	1
+Usb	No
+Inalámbrico Con Receptor	No
+Inalámbrico Por Bluetooth	No
+Mini Plug Micrófono	1
+Usb De Alimentación	No
+
+DIMENSIONES
+Tamaño De Los Parlantes	50 mm
+
+CABLEADO
+Largo Del Cable	2000 m
+
+COMPATIBILIDAD
+Dispositivos Compatibles	PC
+
+ACCESORIOS
+Docking Incluído	No
+
+SONIDO
+Impedancia	32 Ω
+Respuesta Mínima	20 hz
+Respuesta Máxima	20000 hz
+Sensibilidad	113 db
+Surround	No
+
+MICRÓFONO
+Sensibilidad	45 db (-)
+Tipo De Micrófono	Retráctil
+Cancelación De Ruidos	Si
+Tipo Captación	Unidireccional

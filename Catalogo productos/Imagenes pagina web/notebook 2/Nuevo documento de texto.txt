@@ -1,0 +1,47 @@
+Notebook Lenovo ThinkPad E14 FHD 14" Core I7 1165G7 8GB 256GB SSD NVMe Freedos
+
+CARACTERISTICAS GENERALES
+Color	Gris Oscuro
+Tipo De Cpu	Intel
+Tipo De Gpu	Intel HD Graphic
+Batería Extraible	No
+Modelo Gpu	Iris® Xe Graphics
+Modelo Cpu	Core I7
+Tipo	Notebook
+Lector De Huellas	No
+Familia Del Procesador	Intel Core i7
+
+CONECTIVIDAD
+Puertos Hdmi	1
+Puertos Mini Hdmi	0
+Puerto Mini Dp	0
+Puertos Usb 2.0 Tipo A	0
+Puertos Usb 3.0 Tipo A	0
+Puertos Usb 3.2 Tipo A	3
+Puertos Usb 3.2 Tipo C	0
+Bluetooth	Si
+Puertos Ethernet	Si
+
+DIMENSIONES
+Peso	1.98 kg
+Ancho	36.65 cm
+Profundidad	25 cm
+Alto	2.1 cm
+
+ALMACENAMIENTO
+Slot M2	No
+Capacidad Hd	0 gb
+Capacidad Sólido	256 gb
+Lector De Memorias	No
+
+PANTALLA
+Tamaño De La Pantalla	15.60 pulgadas
+Resolución	1366x768
+Touch	No
+
+MEMORIA
+Slot 1 Ram Disponible	Si
+Slot 2 Ram Disponible	Si
+Ram En El Slot 1	8 gb
+Generación De Memorias	DDR4
+Formato De Memorias	SODIMM

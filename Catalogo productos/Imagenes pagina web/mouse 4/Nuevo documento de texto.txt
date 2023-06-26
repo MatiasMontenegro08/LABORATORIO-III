@@ -1,0 +1,25 @@
+Mouse Logitech M110S Negro Blue USB
+
+CARACTERISTICAS GENERALES
+Color	Azul
+Cantidad De Botones	3
+Tipo De Sensor	Óptico
+Tipo Inalámbrico	No
+Orientación	Para ambidiestros
+Agarre Palm Grip	Si
+Agarre Claw Grip	Si
+Agarre Finger Grip	Si
+
+RENDIMIENTO
+Dpi Ajustables	No
+
+CONECTIVIDAD
+Usb Requeridos	1
+Incluye Receptor	No
+Ps2 Requerido	No
+
+DIMENSIONES
+Sistema De Pesas	No
+
+CABLEADO
+Cable Desmontable	No

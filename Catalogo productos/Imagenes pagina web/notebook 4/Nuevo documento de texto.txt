@@ -1,0 +1,53 @@
+Notebook Lenovo V14-ITL 14" Core I3 1115G4 8GB 256GB SSD NVMe Freedos
+
+CARACTERISTICAS GENERALES
+Color	Gris Oscuro
+Sistema Operativo	FreeDOS
+Tipo De Cpu	Intel
+Tipo De Gpu	Intel Integrated Graphics
+Batería Extraible	No
+Modelo Gpu	UHD Graphics
+Modelo Cpu	Core i3 1115-G4
+Tipo	Notebook
+Lector De Huellas	No
+Familia Del Procesador	Intel Core i3
+
+CONECTIVIDAD
+Puertos Hdmi	1
+Puertos Mini Hdmi	0
+Puerto Mini Dp	0
+Puertos Usb 2.0 Tipo A	1
+Puertos Usb 3.0 Tipo A	0
+Puertos Usb 3.2 Tipo A	1
+Puertos Usb 3.2 Tipo C	1
+Bluetooth	Si
+Wifi	Norma AC
+Puertos Ethernet	Si
+
+DIMENSIONES
+Peso	1.6 kg
+Ancho	32.4 cm
+Profundidad	21.5 cm
+Alto	1.99 cm
+
+ALMACENAMIENTO
+Slot M2	Si
+Capacidad Hd	0 gb
+Tipo De M.2	NVME
+Capacidad Sólido	256 gb
+Lector De Memorias	No
+
+PANTALLA
+Tamaño De La Pantalla	14.00 pulgadas
+Tipo De Display	TN
+Resolución	1366x768
+Touch	No
+Frecuencia De Actualizacion	60 hz
+
+MEMORIA
+Ram Integrada	4 gb
+Slot 1 Ram Disponible	Si
+Slot 2 Ram Disponible	No
+Ram En El Slot 1	4 gb
+Generación De Memorias	DDR4
+Formato De Memorias	SODIMM

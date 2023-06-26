@@ -1,0 +1,42 @@
+Teclado Mecanico Redragon Fizz Pro K616-RGB 60% Black
+
+CARACTERISTICAS GENERALES
+Tipo De Switch	Outemu
+Tipo De Teclado	Compacto TKL
+Idioma	Español
+Distribución	Latinoamerica
+Color	Negro
+Tipo De Mecanismo	Mecánico
+Switch Especifico	Red
+Material	Plástico,Metal
+Touchpad	No
+Pad Numérico	No
+
+RENDIMIENTO
+Anti Salpicaduras	Si
+N-key Rollover		Si
+Antighosting		Si
+
+CONECTIVIDAD
+Puertos Usb Requeridos	1
+Puertos Ps/2 Requeridos	No
+Conexión Bluetooth	No
+Receptor Bluetooth Incluido	No
+Conexión Wireless Con Receptor	No
+Audio Hub	No
+
+DIMENSIONES
+Ancho	375 mm
+Profundidad	155 mm
+Alto	43 mm
+Peso	1.06 kg
+Reposamuñecas	No
+Reposamuñecas Extraíble	No
+
+CABLEADO
+Tipo Cable	Plástico
+Cable Extraíble	No
+Largo Del Cable	1.8 metros
+
+COMPATIBILIDAD
+Tecnologías Compatibles	Software propio
